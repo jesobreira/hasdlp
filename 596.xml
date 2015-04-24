@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>596 - Vem Morar em Mim</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Vem Morar em Mim
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		Santo Espírito de Deus,
+Vem morar em mim.
+Santo Espírito de Deus,
+Vem morar em mim.
+Vem moldar-me, transformar-me.
+Santo Espírito de Deus,
+Vem morar em mim.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

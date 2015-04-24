@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>239 - Exulta, Meu Coração</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Exulta, Meu Coração
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Exulta, meu coração,
+   No dom que do Céu desceu,
+   Pois Deus nos deu a salvação
+   Por Cristo que morreu!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Cantai! Cantai!
+      A Cristo louvores dai!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Do coro angelical,
+   Por terra e pelo Céu,
+   Soou um hino divinal,
+   De Cristo que venceu.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Exulta, meu coração!
+   Vencido está o mal.
+   Eis, rompe o dia da salvação,
+   E a paz é eternal.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

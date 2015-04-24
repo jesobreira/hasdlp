@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>355 - Oh, Não Temas, Sou Contigo</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Oh, Não Temas, Sou Contigo
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Se a fé por vezes falta, 
+   Quando o Sol não posso ver, 
+   A Jesus eu digo humilde: 
+   Oh, vem meu Piloto ser.
+   
+CORO: "Oh, não temas, sou contigo, 
+      Teu Piloto até o fim!
+      Não te importes co'o perigo; 
+      Eis a mão, confia em Mim."
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Quando a tentação me envolve 
+   E não posso a Cristo ver,
+   Eis que em meio à tempestade, 
+   Ouço o Salvador dizer:
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Quando a alma está ferida 
+   Pelas ondas da aflição, 
+   Volvo o olhar ao meu Piloto, 
+   E este canto escuto então:
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		4. Se do mar à praia chego, 
+   Mesmo havendo turbilhão, 
+   Vejo meu Piloto ao lado,
+   Creio em Sua direção.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

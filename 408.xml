@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>408 - Dá-me Tua Paz</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Dá-me Tua Paz
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1.  Dá-me Tua paz, Mestre, dá-me Tua pa, 
+    Se tristezas vêem conturbar-me o coração; 
+    Não serei tentado, nem o mal verei, 
+    Se me deres paz, bom Mestre; dá-me Tua paz.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Dá-me Tua paz, Mestre, 
+      Dá-me Tua paz, Mestre, 
+      Pois andar sem Ti não posso; 
+      Dá-me Tua paz.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2.  Dá-me Tua paz, Mestre, dá-me Tua paz, 
+    Sim, nas horas más, quando em treva envolto estou. 
+    Guia, pois, meus passos, para eu não cair, 
+    Pois andar sem Ti não posso; dá-me Tua paz.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

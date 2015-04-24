@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>229 - Teu Coração em Paz</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Teu Coração em Paz
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Vindo sombras escuras nos caminhos teus,
+   Oh, jamais desanimes, canta um hino a Deus.
+   Cada nubem escura um arco-íris traz,
+   Quando em teu coração reinar perfeita paz.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		COR0: Se teu coração estiver em paz,
+      Bem contente e alegre sempre te acharás;
+      Se teu coração estiver em paz,
+      Verás que um arco-íris,
+      Cada nuvem traz.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Se o viver é de lutas, cheio de amargor,
+   Mostra afeto aos aflitos, age em seu favor,
+   E de tudo o que sofres esquecer-te-ás;
+   Fruirás doce calma se tiveres paz.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Vem, após negra noite, a aurora matinal;
+   Fica o céu mais brilhante após o temporal.
+   A esperança não percas, pois tu vencerás;
+   Fugirão as tristezas, se tiveres paz.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

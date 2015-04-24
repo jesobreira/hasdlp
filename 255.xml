@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>255 - Oh! Eu Não Sei, Senhor</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Oh! Eu Não Sei, Senhor
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Oh! eu não sei, Senhor, porque Tu quererás
+   Que tanto eu sofra aqui pesares e aflição.
+   Oh! eu não sei, Senhor, porque Tu quererás
+   Que eu sofra perdas se outra foi minha oração!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO:	Mas isto eu sei: nunca eu Te deixarei,
+	Tu sabes, Pai, melhor, na provação maior;
+	E sei também: se eu confiar em Ti,
+	Breve as trevas passam e oh! quão claro aqui!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Oh! eu não sei, Senhor, porque Tu quererás,
+   Que eu ande neste vale escuro e tão hostil!
+   Oh! eu não sei, Senhor, porque Tu quererás
+   Que venham nuvens negras no meu céu de anil!
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Oh! eu não sei, Senhor, porque Tu quererás
+   Que venham sobre mim tão duras tentações!
+   Oh! eu não sei, Senhor, porque Tu quererás
+   Que eu sofra assim, na vida, amargas provações!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

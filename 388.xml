@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>388 - Vem, Alma Cansada</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Vem, Alma Cansada
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Vem, alma cansada, tão cheia de dor; 
+   Vem, traze teus fardos aos pés do Senhor.  
+   A Cristo confia teu grande pesar,
+   Pois nEle descanso tu podes achar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Mágoas e tristezas, vem, traze ao Senhor; 
+   Não, oh, não receies vir tudo Lhe expor.  
+   Do mal que te oprime, te pode curar.
+   Tem Ele o desejo de te confortar.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Se tu já provaste tal consolação,
+   Vai, leva aos contritos luz, paz e perdão; 
+   As almas aflitas, em lutas e dor,
+   Vai, traze-as depressa aos pés do Senhor.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

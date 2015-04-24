@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>535 - Para o Céu por Jesus Irei</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Para o Céu por Jesus Irei
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Foi Jesus que abriu o caminho do Céu, 
+   Caminho através da cruz.
+   Nunca irei entrar no celeste lar
+   Se o caminho da cruz errar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Para o Céu por Jesus irei,
+      Para o Céu por Jesus irei.
+      Grande é meu prazer de certeza ter:
+      Para o Céu pela cruz, irei.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Certamente eu vou no caminho da cruz,
+   Com grande fervor andar.
+   É desejo meu desfrutar no Céu
+   Essa herança que Cristo deu.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Os caminhos maus deste mundo deixei; 
+   Jamais neles vou seguir.
+   Sigo, pois, Jesus, com a minha cruz,
+   No caminho que ao Céu conduz.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

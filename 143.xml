@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>143 - Será de Manhã?</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Será de Manhã?
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Será de manhã, no começo do dia?
+   Será quando a luz seu fulgor irradia,
+   Que Cristo há de vir com os anjos da glória,
+   Receber deste mundo os Seus?
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Oh, Jesus, Salvador, Senhor!
+      Quando vamos cantar:
+      Cristo volta, aleluia, aleluia, amém!
+      Aleluia, amém?!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Será de manhã ou será pela tarde?
+   Também pode ser que as trevas da noite
+   Se tornem na luz desse brilho de glória,
+   Quando Cristo os Seus receber.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Oh! graça sem fim, quando a morte vencida,
+   E Cristo Jesus revestir-nos de vida,
+   E formos então habitar lá na glória,
+   Nesse lar que Jesus preparou!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

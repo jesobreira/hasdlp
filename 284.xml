@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>284 - Tudo por Cristo</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Tudo por Cristo 
+	
+1. Teu, ó Senhor bendito,
+   sempre desejo ser.
+   Livre do mundo iníquo,
+   Quero também viver
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		CORO: Quero viver por Cristo,
+      Tudo Lhe dedicar;
+      Tudo por Cristo, tudo, tudo
+      Quero renunciar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Quero servir a Cristo,
+   Sempre ao seu lado estar;
+   Útil na paz, na luta,
+   Por Ele trabalhar
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Queres, pois, aceitar-me
+   Tal como sou, Senhor?
+   Venho entregar-me agora
+   És o meu Redentor.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

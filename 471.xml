@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>471 - Confiei no Meus Senhor</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Confiei no Meus Senhor
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Confiei no meu Senhor,
+   E Ele me ouviu;
+   Do pecado me livrou,
+   E a vida em mim surgiu.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Muitos O verão e temerão,
+      Deus, Criador da terra e Céu.
+      Bem aventurado o que confia no Senhor.
+      A Cristo honra, glória e louvor!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Os meus pés guiou no bem;
+   Um sol em mim nasceu;
+   Minha vida há de ser 
+   Um hino ao meu bom Deus.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

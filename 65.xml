@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>65 - Oh! Fronte Ensangüentada!</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Oh! Fronte Ensangüentada!
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Oh! fronte ensangüentada, em sofrimento e dor!
+   Cruel coroa fere Tua fronte, ó Salvador!
+   A turba escarnece de Tua condição,
+   E zomba destas dores, ferindo o coração!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Sem luz estão Teus olhos; não brilham mais, assim;
+   Por que, Senhor, se apagam? Oh! sim, bem sei : por mim!
+   Tão grandes sofrimentos os meus pecados vis 
+   Causaram ao meu Mestre, que o Sol brilhar não quis.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Jesus, meu grande Amigo, morreste em meu lugar!
+   Em dor desfaleceste, a fim de me salvar!
+   Palavras não expressam a minha gratidão
+   Por Tua imensa graça, bendita redenção!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

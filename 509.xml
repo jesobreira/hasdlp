@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>509 - A Escola Sabatina</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		A Escola Sabatina
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Em Teu nome começamos 
+   Esta escola, ó Senhor!
+   Com fervor nós Te rogamos 
+   Sejas o nosso Diretor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Cada sábado nós vimos
+      À Tua escola, ó Jesus!
+      Vem, ó Mestre, instruir-nos 
+      No caminho Teu de luz.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Esta escola nos ensina
+   Em Tua santa lei viver,
+   E nos manda que sejamos 
+   Sempre fiéis, até morrer.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Vem, Senhor, vem ensinar-nos 
+   Teus preceitos bem cumprir.  
+   Eis, reunidos, esperamos
+   Tua presença aqui sentir.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

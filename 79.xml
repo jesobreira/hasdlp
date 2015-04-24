@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>79 - Glória ao Salvador</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Glória ao Salvador
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Veio Jesus a este mundo vil, 
+   Para nos libertar; 
+   Foi rejeitado por gente hostil; 
+   Veio pra nos salvar. 
+   Glória e poder no Céu deixou, 
+   Ingratidão no mundo achou, 
+   Tudo Ele fez, pois nos amou, 
+   Para nos resgatar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Glória, glória, demos ao Salvador!
+      Glória, glória, por Seu tão grande amor!
+      Glória, glória! Temos a paz com Deus!
+      Glória, glória, vamos cantar nos Céus!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Nosso castigo Jesus levou,
+   Para nos libertar;
+   Tudo na cruz Ele consumou;
+   Veio pra nos salvar.
+   Quem entre nós já compreendeu
+   Todas as dores que sofreu,
+   A condição em que morreu,
+   Para nos resgatar?!
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Cristo morreu numa cruz de dor,
+   Para nos libertar;
+   E agora chama-nos com amor;
+   Veio pra nos salvar
+   Vamos a Cristo em contrição,
+   Tendo certeza do perdão,
+   Pois Ele estende a Sua mão
+   Para nos resgatar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

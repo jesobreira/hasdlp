@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>137 - Anunciai Pelas Montanhas</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Anunciai Pelas Montanhas
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		CORO: Anunciai pelas montanhas,
+      E proclamai por terra e mar;
+      Anunciai pelas montanhas
+      Que Cristo vai voltar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		1. Minha'lma, com Cristo,
+   Jamais desanimou,
+   Porque Ele ajuda e guia,
+   E a senda me mostrou.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Meu Mestre divino,
+   Conduz pela mão;
+   De pão sacia a alma,
+   E escuta a oração.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. E nós, que O amamos,
+   Devemos proclamar
+   Que Cristo veio ao mundo,
+   E a todos quer salvar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

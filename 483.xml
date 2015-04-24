@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>483 - Partilhai Vossa Fé</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Partilhai Vossa Fé
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Partilhai a vossa fé, vós os jovens de Deus,
+   Nesta estrada de luz que nos leva aos Céus;
+   Que alegria é fazer o que pede Jesus:
+   Proclamar com ardor o evangelho de luz.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Jovens de Deus, erguei-vos!
+      É tempo de brilhar!
+      Partilhai com outros a vossa fé;
+      Jesus não irá tardar!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Partilhai a vossa fé, vós os jovens de Deus,
+   Vossa fé no Senhor que criou Terra e Céus;
+   Vossa fé em Jesus nosso bom Salvador,
+   Que mui breve virá com poder e esplendor.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Partilhai a vossa fé, vós os jovens de Deus,
+   Que na luta feroz o Senhor guarda os Seus;
+   E sejamos fiéis té a batalha final,
+   Pois Jesus nos dará galardão triunfal.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

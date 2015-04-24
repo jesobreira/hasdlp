@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>225 - Se Tens Amor</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Se Tens Amor
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Quão alegre canta o ser quando tens amor;
+   De Jesus virá prazer, quando tens amor;
+   Tua dor logo se desfaz, uma bênção tu serás,
+   E alegria fruirás, se tens amor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Se tens amor, se tens amor,
+      Quão alegre canta o ser
+      Quando tens amor;
+      Se tens amor, se tens amor,
+      Paz celeste aos outros levas
+      Se tens amor.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. A tristeza não persiste se tens amor;
+   Ficam leves os teus fardos se tens amor;
+   Brilha intensa e radiante luz, que na senda te conduz;
+   Oh, que bênçãos tens a flux, se tens amor!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

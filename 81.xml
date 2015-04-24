@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>81 - Louvores ao Meu Rei</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Louvores ao Meu Rei
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. 0, vinde crentes e entoai louvores a Jesus, 
+   Que para nossa salvação foi morto numa cruz. 
+   Seu sangue derramou, de tudo me lavou, 
+   Mais alvo do que a neve me tornou.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: O sangue de Jesus me lavou, me lavou!
+      O sangue de Jesus me lavou, me lavou!
+      Alegre cantarei louvores a meu Rei,
+      A meu Senhor Jesus que me salvou!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Conosco vinde vos unir na guerra contra o mal,
+   E com o nosso Salvador em marcha triunfal;
+   A todos proclamar a graça e seu poder;
+   Seu sangue derramou pra nos salvar.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. 0 grande Autor da salvação é Cristo, o Salvador,
+   O Rei dos reis, o Redentor, Jesus, o bom Senhor;
+   Pois tudo vencerá, vitória nos dará,
+   Á glória, salvos, nos conduzirá.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

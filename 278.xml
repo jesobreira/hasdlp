@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>278 - Tal Qual Estou</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Tal Qual Estou
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Tal qual estou, eu venho a Ti,
+   Aceita-me, o Salvador! 
+   Confiante sou em Teu amor;
+   Ó Salvador, me achego a Ti!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Tal qual estou, eu venho a Ti,
+   Perdão me podes conceder,
+   E minhas faltas esquecer;
+   Ó Salvador, me achego a Ti!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Tal qual estou, eu venho a Ti,
+   E Tu minhálma limparás,
+   Com Teu amor me envolverás;
+   O Salvador, me achego a Ti.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

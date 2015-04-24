@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>66 - Na Senda do Calvário</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Na Senda do Calvário
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Seguia tristemente e só, ninguém a me observar;
+   Curvado ao fardo andava eu e quis desesperar;
+   Queixei-me então a Cristo, do mundo a me atrair,
+   E Sua voz suave pude ouvir:
+   "Na senda do Calvário, Meus pés também cansei,
+   E sob a cruz pesada, sem forças Me prostrei;
+   Cansado peregrino, a noite chega ao fim;
+   Ó, toma a cruz e segue junto a Mim."
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Do esforço meu por Ti, Jesus, às vezes me gabei:
+   Quão grande sacrifício fiz, na senda estreita andei;
+   Deixei fortuna e fama a fim de Te seguir;
+   E Tua voz suave pude ouvir:
+   "Deixei o trono e a glória, deixei do Cé a luz,
+   E Minhas mãos pregaram sobre uma rude cruz;
+   Com tua mão na Minha, sigamos, pois, assim;
+   Ó, toma a cruz e segue junto a Mim."
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

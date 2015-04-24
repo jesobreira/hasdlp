@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>559 - Feliz Manhã</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Feliz Manhã
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Já cansados seguimos de noite a penar,
+   Na jornada da vida cristã,
+   Mas será para nós tão brilhante o raiar
+   Da gloriosa e feliz manhã.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Findarão as agruras da vida,
+      Quando a névoa do mal passar.
+      Há de a noite fugir ante o vivo luzir,
+      Quando o dia eternal raiar.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Há tão grandes mistérios na trilha a seguir,
+   E prenúncios de lutas e dor,
+   Mas de nós fugirão quando virmos luzir
+   Sua face em real fulgor.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Mesmo que nos pareça o caminho sem fim,
+   Tendo os olhos a lacrimejar,
+   Recompensas gloriosas teremos enfim,
+   No bendito e eterno lar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

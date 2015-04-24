@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>1 - Ó Deus de Amor</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Ó Deus de Amor
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1.Ó Deus de amor,  vimos  nós Te a dorar . 
+  Vós, ó naç ões,  rend ei  louv or! 
+  És Tu,  Senh or, o pode roso  Vence dor; 
+  És  Cria dor e  Rei  sem-p ar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2.Por Teu poder  nos  criaste, S enhor ,  
+  Deste-nos  vida  e  perf eiç ão;  
+  E ao des viar- nos de Teu  plano  de am or,  
+  Veio,  em  Jes us,  a sal vaç ão.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Teu é o poder e   o louv or, no sso Deu s;  
+   Teu, nosso a mor,  ferv or ta mbé m.  
+   Qual ro cha  firme a ver dade  ficará ,  
+   Deus  ete rna l,  Senhor . Am ém.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

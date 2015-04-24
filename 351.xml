@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>351 - Nunca me Deixar</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Nunca me Deixar
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Neste mundo, sozinho não quero nem posso avançar, 
+   Pois eu sou tão fraquinho, sem forças para lutar,
+   Mas Jesus vai comigo, disposto sempre a salvar,
+   Sim, Ele mesmo promete que nunca me há de deixar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Nunca me deixar!  Nunca me deixar!
+      Pois Ele mesmo promete comigo caminhar. 
+      Nunca me deixar!  Nunca me deixar!
+      Pois Ele mesmo promete que nunca me há de deixar
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Inimigos mui fortes procuram minh'alma vencer;
+   E se sozinho andasse, que poderia fazer?
+   Com Jesus ao meu lado, alegre posso avançar, 
+   Sim, Ele mesmo promete que nunca me há de deixar.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Nas tristezas da vida, nas dores e nas aflições, 
+   Na calma ou na lida, ao virem as tentações, 
+   Cristo anda ao meu lado, comigo, para ajudar, 
+   Sim, Ele mesmo promete que nunca me há de deixar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

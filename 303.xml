@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>303 - Se Cristo For Comigo</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Se Cristo For Comigo
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Por vales de aflições, se preciso for passar,
+   Ou mesmo se feliz, sempre em paz puder andar,
+   Bem sei, seguro estou, se ao sol ou sombra vou; 
+   Na luz ou nas trevas, irei com Jesus.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: A todo! lugar eu irei, com Jesus;
+      Seguindo Sua lei, do Céu eu terei a santa luz,
+      É meu privilégio levar a Sua cruz;
+      Irei, pois, a todo lugar, com Jesus.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Se as novas do evangelho for meu dever levar
+   Ao pecador perdido, nas trevas a vagar;
+   Se é que me toca a mim pregar a Cristo assim,
+   Se Ele me guia, irei com Jesus.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Se a minha sorte for mesmo em casa a cruz levar,
+   Quando outros a proclamam em terras de além-mar,
+   Se fico, pois, ou vou, contente sempre estou, 
+   Pois sempre contigo, eu tenho a Jesus.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>120 - Amor Que por Amor Desceste</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Amor Que por Amor Desceste
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Amor, que por amor desceste!
+   Amor, que por amor morreste!
+   Ah, quanta dor não padeceste!
+   Minh'alma vieste resgatar
+   E meu amor ganhar!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Amor, que com amor seguias
+   A mim, que sem amor, Tu vias!
+   Oh! Quanto amor por mim sentias,
+   Eterno Deus, Senhor Jesus,
+   Sofrendo sobre a cruz!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Amor, que tudo me perdoas!
+   Amor, que até mesmo abençoas
+   Um réu de quem Tu Te afeiçoas!
+   Vencido, ó Salvador, por Ti,
+   Teu grande amor senti!
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		4. Amor sublime que perduras,
+   Que em Tua graça me seguras,
+   Cercando a mim de mil venturas!
+   Aceita agora, ó Salvador,
+   O meu humilde amor!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

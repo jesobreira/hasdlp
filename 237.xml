@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>237 - Junto ao Bondoso Deus</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Junto ao Bondoso Deus
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Eu sei que há perfeita paz
+   Junto ao bondoso Deus.
+   Não há temor nem obras más,
+   Junto ao bondoso Deus.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Jesus, Senhor, meu Mestre,
+      Pão que desceu dos Céus,
+      Segura-me bem perto
+      Do coração de Deus.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Eu sei que há conforto e luz
+   Junto ao bondoso Deus.
+   Encontro ali o meu Jesus,
+   Junto ao bondoso Deus.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Encontro, sim, libertação,
+   Junto ao bondoso Deus;
+   E tenho paz e salvação,
+   Junto ao bondoso Deus.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>140 - Ó Vem! Emanuel!</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Ó Vem! Emanuel!
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Ó, vem, ó, vem, Emanuel,
+   E salva o aflito Israel
+   Que chora o exílio em seu viver
+   Até Jesus aparecer.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Cantai! Cantai! Emanuel
+      Virá a vós, ó Israel!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Sabedoria que é do além,
+   Ordena tudo aqui também!
+   O bom caminho, vem mostra;
+   E como nele sempre andar.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Ó Desejado das nações,
+   Unidos faze os corações.
+   Do mundo vem tirar o mal
+   E dar-lhe a paz celestial.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

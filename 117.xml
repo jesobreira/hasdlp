@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>117 - Se Tu Buscares a Jesus</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Se Tu Buscares a Jesus
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Se tu buscares a Jesus,
+   Encontrarás o Salvador;
+   A ti virá manhã de luz
+   E paz em Seu amor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Se buscares conhecê-Lo,
+      Oh, sim, amá-Lo-ás também!
+      Manhã feliz despontará
+      Para ti no lar de além.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. À luz do que Ele prometeu,
+   Em teu viver desfrutarás
+   O amor e as bênçãos lá do Céu,
+   De Deus a doce paz.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Jesus compreende a tua dor,
+   E sempre quer teu bem-estar;
+   Crê, pois, que junto ao Salvador,
+   Conforto hás de gozar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

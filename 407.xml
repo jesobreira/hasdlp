@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>407 - Ao Teu Lado Quero Andar</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Ao Teu Lado Quero Andar
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Eu sou fraco, sem vigor; 
+   Vivo sempre a vacilar. 
+   Sê, Jesus meu protetor; 
+   Só contigo, Senhor quero andar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Ao teu lado quero andar, 
+      Livre de qualquer temor;
+      Quero em Ti sempre confiar, 
+      E viver para Ti, ó Senhor.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Neste mundo aterrador, 
+   Quem se importa se eu cair?
+   Quem está em meu favor? 
+   Só Jesus me poderá me remir.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Junto a Ti, meu Salvador, 
+   Para sempre eu quero estar;
+   Ó conduz-me com amor 
+   Às moradas do teu doce lar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>195 - Rocha Eterna</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Rocha Eterna
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Rocha eterna, meu Jesus, Tu morreste lá na cruz!
+   Vem de Ti um sangue tal que me vem lavar do mal!
+   Traz as bênçãos do perdão: paz, conforto e salvação.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Nem trabalho, nem penar pode alguém aqui salvar,
+   Mas só Tu, meu bom Jesus, podes dar-me a vida e luz.
+   Peço-Te perdão, Senhor, pois confio em teu amor.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Eis que vem a morte atrás desta vida tão fugaz!
+   Quando ao lar do Céu subir, e Teu rosto em glória vir,
+   Rocha eterna, que prazer eu terei de em Ti viver!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

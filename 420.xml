@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>420 - Oh! Que Amigo em Cristo Temos!</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Oh! Que Amigo em Cristo Temos!
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Oh! que amigo em Cristo temos! Mais chegado que um irmão!
+   Quer que tudo nós levemos Ao bom Deus em oração.
+   Oh! que paz perdemos sempre, Oh! que dor de coração!
+   Só porque não recorremos ao bom Deus em oração!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Há tristezas e pesares, Há na vida tentação;
+   Não ficamos sem conforto, Indo a Cristo em oração.
+   Pode haver um outro amigo Tão grandioso em compaixão?
+   Aos humildes e contritos, Cristo atende em oração.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Quando em dor desfalecemos, Cristo estendenos a mão,
+   Pois é sempre a nossa força, É refúgio em oração.
+   E se aqui nos menosprezam, Cristo é nosso em oração;
+   Em Seus braços nos acolhe, E nos dá consolação.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>45 - Nasce Jesus</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Nasce Jesus
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Nasce Jesus, fonte de luz!
+   Descem os anjos cantando.
+   Nasce Jesus, é nossa luz,
+   Trevas vem, pois, dissipando.
+   Nasce Jesus, fonte de luz!
+   Oh! glória a Deus nas alturas!
+   Vede a redenção raiar, Cristo ao mundo vem!
+   Se, pois, bem-vindo! Firma Teu justo império!
+   Honras e glórias, anjos e homens dêem!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Nasce Jesus fonte de luz!
+      Oh! glória a Deus nas alturas!
+      Paz na Terra, aos homens
+      A quem quer Ele bem.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Deus nos amou, Deus nos mandou
+   Cristo, Seu Filho querido.
+   Deus nos amou, Deus encarnou.
+   Vede o Menino nascido!
+   Deus nos amou! Deus nos salvou!
+   Digam-no todos os povos;
+   Podem salvação fruir, todos os que crêem!
+   Reino bendito! Reino do amor divino!
+   Eis que resgate, todos, por Cristo, têm!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>566 - Doce Lar</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Doce Lar
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. À terra nós vamos dos fiéis e dos santos,
+   País de glória infinda, de bênçãos e luz;
+   Já fartos estamos de vaguear pelas trevas;
+   Ao lar em breve iremos com Cristo Jesus.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Doce lar! Doce lar! Doce lar! Doce lar! 
+      No lar habitaremos com o nosso Jesus.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Não entram desgostos neste lar, nem tristeza
+   Só paz e alegria ali reinarão.
+   Em nosso caminho vamos, pois, animosos,
+   Pois Cristo, nosso Mestre, nos deu salvação.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Andemos ousados para o lar, bem contentes,
+   Embora carregando o opróbrio da cruz.
+   A terra avistamos com os seus lindos campos;
+   Ali nós viveremos com nosso Jesus.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>474 - Seguindo a Jesus</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Seguindo a Jesus
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Estou seguindo a Jesus Cristo;
+   Deste caminho eu não desisto.
+   Estou seguindo a Jesus Cristo;
+   Atrás não volto, nunca mais.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Se me deixarem os pais e amigos,
+   Se me cercarem muitos perigos;
+   Se me deixarem os pais e amigos,
+   Atrás não volto, nunca mais.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Atrás o mundo, Jesus na frente,
+   Jesus, o Guia onipotente;
+   Atrás o mundo, Jesus na frente,
+   Atrás não volto, nunca mais.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		4. Depois da luta, vem a coroa;
+   A recompensa é certa e boa.
+   Depois da luta, vem a coroa;
+   Atrás não volto, nunca mais.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

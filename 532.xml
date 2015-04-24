@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>532 - Bem-vindo o Sábado</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Bem-vindo o Sábado
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Bem-vindo é a nós, o sábado feliz!
+   Do grande amor de Deus, de Seu poder nos diz.  
+   Bem longe põe o mundo vil,
+   A luta, a dor, trabalhos mil;
+   O amor e a doce paz do Céu nos traz.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Vem Príncipe dos Céus, renova-nos o ser, 
+   Até se achar em nós justiça, amor, poder.  
+   Por Teu amor que é sem igual,
+   Oh, livra-nos de todo o mal,
+   E dá-nos proteção, e salvação.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3.Com Teu poder, oh, vem, bendize-nos, Senhor; 
+   Conserva-nos no bem, na luz do Teu amor.
+   A cada um concede, então,
+   O Teu favor e o Teu perdão,
+   E lá no bom país, um lar feliz.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

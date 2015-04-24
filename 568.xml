@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>568 - Lar, Doce Lar</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Lar, Doce Lar
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Na pátria celeste, de Deus doce lar,
+   Prepara Jesus para os Seus um lugar;
+   Pois longe do mal, do pecado e da dor,
+   Consigo pra sempre os que Ter o Senhor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Oh, doce, doce lar!
+      Ali com Jesus vou pra sempre morar.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Oh, lar sacrossanto, de paz e de amor;
+   Ali sobre o trono verei meu Senhor,
+   O meigo Cordeiro, reinando na luz,
+   Por todos louvado, bendito Jesus!
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Não são teus prazeres que anseio gozar, 
+   Mas, sim, com Jesus para sempre morar.
+   Com Ele na glória, feliz, bendizer
+   A quem, pra salvar-me, por mim quis morrer.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

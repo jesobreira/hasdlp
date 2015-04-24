@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>298 - Toma, ó Deus, Meu Coração</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Toma, ó Deus, Meu Coração
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Toma, ó Deus, em Tua mão, 
+   Como está coração.
+   Mesmo sem nenhum valor, Faze-o puro, santo  e bom,
+   Cheio enfim do Teu amor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Toma, ó Deus, as minhas mãos, 
+   Os meus pés e os lábios meus;
+   E em favor dos meus irmãos Ajam sempre com amor,
+   Com prazer por onde for.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Quando, enfim, voltar Jesus 
+   Com poder, em glória e luz
+   Toma, ó Deus, meu pobre ser Para sempre ir morar
+   Com Jesus no doce lar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

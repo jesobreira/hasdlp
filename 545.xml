@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>545 - Vem o Grande Dia</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Vem o Grande Dia
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Vem o grande dia, o grande dia,
+   Vem o grande dia, sem tardar,
+   Quando os ímpios e santos separados hão de ser; 
+   'Stais vós prontos para o dia final?
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: 'Stais vós prontos? 'Stais vós prontos?
+      'Stais vós prontos para o dia final?
+      'Stais vós prontos?  'Stais vós prontos
+      Para o dia final?
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Vem o alegre dia, o alegre dia,
+   Este alegre dia perto está,
+   Mas alegre será somente ao que ama o Salvador, 
+   'Stais vós prontos para o dia final?
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Um glorioso dia, glorioso dia,
+   Um glorioso dia há de ser,
+   Mas a glória virá somente ao que ama o Salvador, '
+   Stais vós prontos para o dia final?
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

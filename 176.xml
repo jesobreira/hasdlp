@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>176 - À Tua Porta Cristo Está</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		À Tua Porta Cristo Está
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. À tua porta Cristo está; abre-Lhe!
+   Se Lhe abrires, entrará; abre-Lhe!
+   Teu pecado perdoará, luz e paz derramará;
+   Nunca mais te deixará; abre-Lhe!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Abre, pois, teu coração; abre-Lhe! 
+   Demorar não deves, não; abre-Lhe! 
+   Teu amigo Ele há de ser; vai do mal te defender, 
+   Té o fim te proteger; abre-Lhe!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Não O faças esperar; abre-Lhe! 
+   Afinal Se há de afastar; abre-Lhe! 
+   Oh! que dor depois terás, pois em vão tu clamarás,
+   E perdido te acharás; abre-Lhe!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

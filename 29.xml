@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>29 - Já o Dia Longe Vai</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Já o Dia Longe Vai
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Já o dia longe vai;
+   Com negror a noite cai.
+   Livre, agora, do labor,
+   Venho a Ti, meu. bom Senhor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Tu, que a todos vês dos Céus,
+   Vés também os erros meus,
+   Mas às faltas contra a lei,
+   Dá perdão, bondoso Rei.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Minha noite triste cai,
+   Longe a luz do Sol se vai.
+   Quero, pois, em Ti, meu Deus,
+   Repousar dos fardos meus.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>318 - Servi Alegremente</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Servi Alegremente
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Ao Mestre alegremente, irmãos, deveis servir;
+   A Cristo, o Rei bendito, com fé deveis seguir.
+   Os Céus e a Terra toda proclamam Seu poder;
+   Milhões alegremente observam Seu querer.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Ao Mestre alegremente, 
+      Irmãos, deveis servir;
+      A Cristo, o Rei bendito, 
+      Com fé deveis seguir.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Ao Mestre alegremente, hosanas entoai;
+   Ao Deus do mundo inteiro, prostrados adorai.  
+   Qual rocha inabalável o Seu domínio é; 
+   Eterno, incontestável, o Autor da nossa fé.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Ao Mestre alegremente, na vossa vida honrai.  
+   A vinda dEle ao mundo, depressa proclamai. 
+   Com glória e majestade, com Seu poder sem-par, 
+   Um reino sempiterno Jesus irá fundar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

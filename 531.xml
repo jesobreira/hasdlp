@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>531 - Do Santo Sábado Es Senhor</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Do Santo Sábado Es Senhor
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Horas benditas, 
+   Santas e felizes,
+   São as que passo 
+   Junto a Ti, meu Deus.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Ó Mestre amado, 
+      Criador divino, 
+      Do santo sábado, 
+      Tu és Senhor
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Busco Tua face
+   De manhã bem cedo,
+   Pois Tuas bênçãos
+   Quero receber.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. E logo à tarde,
+   Quando o Sol se esconde, 
+   Quero, prostrado,
+   Aos Teus pés estar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

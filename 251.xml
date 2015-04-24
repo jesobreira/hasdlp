@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>251 - Tem Fé em Deus</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Tem Fé em Deus
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Tem fé em Deus se a treva oculta o Sol;
+   Tem fé em Deus se o dia está a findar.
+   Tem fé em Deus, à noite ou no arrebol;
+   Tem fé, amigo, em Deus.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Tem fé em Deus se o sonho se desfaz;
+   Tem fé em Deus, não podes andar só.
+   Tem fé em Deus, e busca dEle a paz;
+   Tem fé, amigo, em Deus.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Tem fé em Deus se calma a vida vai;
+   Tem fé em Deus se treme o coração.
+   Tem fé em Deus que é teu bondoso Pai;
+   Tem fé, amigo, em Deus.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

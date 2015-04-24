@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>423 - Música Celeste</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Música Celeste
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Que música celete vem das vagas do mar;
+   Comove minha'lma qual santa canção;
+   São as vozes de anjos soando no ar,
+   A mim estão cantando celeste saudação.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Do Jordão nas lindas praias, me detenho a orar,
+   E com fervente prece estendo a mão;
+   Ó, envia os Teus anjos, amável Jesus!
+   E deixa-me cantar, sim, a santa canção.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Em forte borrasca que infunde pavor,
+   Não tenho temor se Jesus me guiar,
+   Pois a santa melodia envolveu-me de amor;
+   Junto ao coro dos anjos desejo cantar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

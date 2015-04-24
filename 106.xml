@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>106 - Amigo Mui Precioso</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Amigo Mui Precioso
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1.Amigo mui precioso eu tenho em meu Jesus;
+  Envolve-me seu doce amor, meus pés no bem conduz.
+  Sem Ele aqui não posso andar, até chegar ao Céu;
+  Assim andamos juntos: Jesus e eu.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2.Por vezes sou tentado nas lutas e na dor, 
+  Então Jesus me mostra a mão ferida por amor.
+  De Seu amor a prova deu, por mim na cruz morreu;
+  E juntos nós andamos: Jesus e eu.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Eu conto-Lhe tristezas, e todo o meu prazer;
+   Em Seu amor encontro a paz, e forças pra viver;
+   E enquanto sigo rumo ao lar, irei ao lado Seu,
+   Pois juntos nós andamos:  Jesus e eu.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>333 - Há um Dever</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Há um Dever
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Há um dever que Deus nos confiou: 
+   Ir e anunciar Jesus ao pecador,
+   Ir proclamar que já o resgatou,
+   Sim, expandir a fé no Salvador.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Não demoreis, o fim se aproximou; 
+   Já brilha o céu no alvor da redenção.  
+   Ao infeliz que o mal escravizou,
+   Ó, ide já livrar da perdição.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Deus vos chamou a fim de trabalhar; 
+   Sim é Jesus o nosso Capitão;
+   Graça e perdão deveis anunciar.
+   Quem for fiel, terá o galardão.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

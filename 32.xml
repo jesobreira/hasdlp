@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>32 - Deus é nosso Pai Amado</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Deus é nosso Pai Amado
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Jamais teu coração se turbe,
+   Nem nele haja algum temor;
+   Pois Deus, do Céu, de ti bem cuida;
+   Oh, confia em teu Senhor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO : Deus é nosso Pai amado,
+       Que das aves zela bem;
+       Dá ao lírio tanta glória !
+       Sim, te atenderá também.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. O fardo pode ser pesado,
+   Grande a cruz a conduzir;
+   Levando a Cristo teu cuidado,
+   Vais com Ele o repartir.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. No céu, se negras nuvens pairam,
+   Dando a ti perturbação,
+   Oh, busca em Cristo novo alento;
+   NEle há consolação.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

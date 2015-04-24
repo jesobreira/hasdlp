@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>378 - Alguém me Vê</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Alguém me Vê
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Quando na luta me falta poder, 
+   Alguém me vê, Alguém me vê.  
+   E se tristezas me vêm abater, 
+   Alguém me vê: é Cristo.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Alguém me vê, Alguém me vê,
+      Quando me oprimem as vis tentações.
+      Nunca me encontro sozinho,
+      Alguém me vê: é Cristo.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Quando há pesares em meu coração,
+   Alguém me vê, Alguém me vê;
+   Se sobre mim desce o véu da aflição,
+   Alguém me vê: é Cristo.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Quando me ferem as setas do mal,
+   Alguém me vê, Alguém me vê.  
+   Quando em saudade do lar celestial,
+   Alguém me vê: é Cristo.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

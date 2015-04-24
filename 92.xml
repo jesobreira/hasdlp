@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>92 - Eu Te Amo, Meu Mestre</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Eu Te Amo, Meu Mestre
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Eu Te amo, meu Mestre, meu bom Salvador;
+   Não posso em palavras contar este amor.
+   Eu Te amo deveras, pra sempre direi;
+   E pelos meus atos o confirmarei.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Que grande ventura, que glória, meu Deus,
+   Saber que em breve eu vou para os Céus!
+   De longe diviso as glórias do além;
+   Oh, como eu almejo fruílas também!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Teu nome eu exalto, ó Rei de Salém,
+   Pois sempre Teus filhos nos braços susténs.
+   Eu quero louvar-Te, cantar Teu amor.
+   Eu Te amo, meu Mestre, meu bom Salvador.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

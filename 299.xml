@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>299 - Eis-nos Prontos</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Eis-nos Prontos 
+1. "Todos prontos", disse o Mestre, 
+   "A comigo padecer?"
+   E acordando responderam: 
+   "Eis-nos prontos a morrer!"
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		CORO: Sim, eis-nos prontos; Senhor, somos Teus.
+      Nós vamos ser leais, ó Jesus
+      Vem ajudar-nos a olhar para os Céus
+      E a ser templos Teus de paz, amor e luz
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Quando virmos ondas negras
+   De tristezas sobre nós
+   "Eis-nos prontos a seguir-Te",
+   Ergueremos nossa voz?
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Muito em breve, quando ao mundo, 
+   Nosso mestre regressar,
+   Dir-Lhe-e-mos: "Eis-nos prontos, 
+   para irmos para o lar?"
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

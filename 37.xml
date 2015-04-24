@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>37 - Tudo Que Há em Terra e Mar</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Tudo Que Há em Terra e Mar
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		CORO: Tudo que há em terra e mar;
+      Belezas que há no céu;
+      Tudo que o bom Deus criou
+      Traz honra ao nome Seu.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		1. A linda flor se abrindo, 
+   E o canto do pardal, 
+   De Deus o amor revelam, 
+   Com graça divinal.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Florestas e montanhas,
+   O rio a correr;
+   O pôr-de-sol tão lindo,
+   Deus fez com Seu poder.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Deu olhos para vermos,
+   E lábios pra cantar;
+   O Seu amor infindo,
+   Oh, vamos proclamar!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

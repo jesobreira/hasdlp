@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>360 - Fixa Teus Olhos no Mestre</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Fixa Teus Olhos no Mestre
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Se amargas tristezas da vida 
+   Curvarem-te a fronte em dor, 
+   E vendo a esperança perdida, 
+   Caíres nas mãos do temor,
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Fixa teus olhos no Mestre,
+      Confia no bom Salvador;
+      Fruirás, na luta terrestre,
+      Maravilhas do Seu doce amor.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Se as ondas cruéis do oceano 
+   Quiserem a nave tragar,
+   E as vagas do mal tão insano 
+   Fizerem-te a fé vacilar,
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Se aflito, sem fé, sem coragem, 
+   Vagando nas sendas do mal,
+   Do mundo seguindo a miragem, 
+   Não ouves a voz divinal,
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

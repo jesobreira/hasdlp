@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>46 - Estrela de Luz</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Estrela de Luz
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Estrela de luz um dia brilhou, 
+   Com raro fulgor, e os magos guiou 
+   Ao pobre curral da humilde Belém, 
+   Ao meigo Jesus, a fonte do bem.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Brilhando inda está, brilhando inda está,
+      A estrela de luz, de raro fulgor
+      Brilhando inda está, brilhando inda está,
+      A estrela a indicar o Deus Salvador
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Já por Balaáo, da estrela porvir,
+   Ouviram falar, em terra oriental;
+   E logo que a vêem, a estão a seguir,
+   E vão encontrar Jesus, afinal.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. A fim de encontrar e ter salvação,
+   Havemos também de a estrela seguir;
+   E achando a Jesus, felizes, então, 
+   Do amor e da paz iremos fruir.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

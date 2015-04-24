@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>97 - Meu Divino Protetor</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Meu Divino Protetor
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Meu divino Protetor, quero em Ti me refugiar,
+   Pois as ondas de terror ameaçam me tragar!
+   Quase estou a perecer! Dá-me a Tua proteção!
+   Pois guardado em Teu poder, não receio o furacão!
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. És amparo, meu Jesus ! Sem alento venho a Ti.
+   Não me deixes sem a luz que ilumina a senda aqui.
+   Eu confio em Teu amor e na Tua compaixão;
+   És meu forte defensor; que me ampare Tua mão.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Graça imensa em Ti se achou, para tudo perdoar;
+   Sangue Teu se derramou, nele quero me lavar.
+   Fonte és de todo bem; dá-me sempre de beber!
+   Confortar minh'alma vem; quero em Teu amor viver.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

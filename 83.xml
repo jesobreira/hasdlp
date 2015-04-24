@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>83 - Glórias ao Rei de Amor</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Glórias ao Rei de Amor
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Glórias ao Rei de amor, ao Rei, Senhor Jesus!
+   O Seu divino e santo amor provou ali na cruz.
+   A Cristo, o Redentor, darei louvor sem fim,
+   Louvor ao santo Rei de amor, que a vida deu por mim.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Glórias ao Rei da luz, do bem o manancial! 
+   Louvor ao nobre Rei da luz, ao dom celestial. 
+   Senhor da Terra e mar, da luz que ao Céu conduz,
+   Louvor ao nobre Rei da luz, ao Rei que a Deus traduz.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Glórias ao Rei da paz, ao Rei, Senhor e Deus! 
+   Louvor ao grande Rei da paz, ao Rei dos altos Céus;
+   O Rei, por Teu favor, ali irei morar,
+   Gozar a eterna e doce paz, a paz do eterno lar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

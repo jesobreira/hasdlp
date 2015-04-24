@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>28 - Morre o Dia</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Morre o Dia
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Morre o dia, põe-se o Sol;
+   Desce à Terra, na amplidão,
+   Suave calma, doce paz;
+   Vem, medita em oração,
+   Em oração
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Santo, santo, santo és, nosso Deus!
+      Toda a Terra e altos Céus
+      Dão-Te graças e louvor,
+      A Ti, Senhor.
+    
+2. Quando as sombras sobrevêm,
+   Cobre-nos com Tua mão .
+   Tu, que lá no Céu estás,
+   Vem ao nosso coração,
+   Ao coração.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Quando a noite a nós vier,
+   E chegar a escuridão,
+   Que em Tua graça, ó Deus,
+   Haja, enfim, ressurreição,
+   Ressurreição.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

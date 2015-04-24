@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>256 - Ó Salvador, Creio em Ti</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Ó Salvador, Creio em Ti 
+		
+1. Mestre divino, Jesus, meu Senhor,
+   Eu creio em Ti, sim, creio em Ti.
+   Força recebo, sustento e vigor;
+   Ó Salvador, creio em Ti.
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		CORO:	Creio, creio,
+	Cristo Jesus, creio em Ti!
+	Graça me dás, alegria e vigor;
+	Ó Salvador, creio em Ti.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		2. Quando me cercam as ondas do mar,
+   Eu creio em Ti, sim, creio em Ti.
+   Tenho prazer, alegria sem-par;
+   Ó Salvador, creio em Ti.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		3. Inda que as trevas encubram o céu,
+   Eu creio em Ti, sim, creio em Ti.
+   Faz-me obediente, constante e fiel;
+   Ó Salvador, creio em Ti.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		4. Cristo Jesus, meu Amigo leal,
+   Eu creio em Ti, sim, creio em Ti.
+   És meu refúgio, defesa real;
+   Ó Salvador, creio em Ti.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

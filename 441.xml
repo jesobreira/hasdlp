@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>441 - Junto ao Rio Jordão</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Junto ao Rio Jordão
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Bem junto estou ao rio Jordão 
+   E lanço além o olhar.
+   Saudoso estou e anseio herdar
+   Meu doce, doce lar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Eu irei descansar no eterno lar,
+      Quando enfim transpuser o rio Jordão
+      Com os salvos sempre poderei me alegrar,
+      Cantando minha redenção.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Já farto estou de tanta dor,
+   Dos males e dos ais;
+   A morte ali no lar de amor 
+   Não entra nunca mais.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Apressa, ó Deus, o reino Teu,
+   Não tardes mais, Senhor!
+   Eu quero já subir ao Céu,
+   Meu doce lar de amor.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

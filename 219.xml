@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>219 - Sempre Alegre</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Sempre Alegre
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Seja o coração alegre,
+   Sempre a transbordar louvor,
+   Pois o nosso Pai celeste
+   Mostra-nos o Seu amor.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Sempre alegre, sempre alegre
+      É o viver do bom cristão;
+      Oh! que regozijo pleno
+      Brota-lhe da salvação!
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Temos proteção nas lutas,
+   Deus nos toma pela mão;
+   Sua sempiterna graça
+   Dá-nos forças na aflição.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Sempre guiará os justos
+   Com amor, em Sua luz;
+   Juntos serviremos todos
+   Ao amado e bom Jesus.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

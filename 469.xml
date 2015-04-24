@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>469 - Oh! Que Esperança!</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Oh! Que Esperança!
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		Oh! Que esperança vibra em nosso ser,
+Pois aguardamos o Senhor!
+Fé possuímos, que Jesus nos dá,
+Fé na promessa que nos fez.
+Eis que o tempo logo vem,
+E as nações daqui e além
+Bem alerta vão cantar:
+Aleluia! Cristo é Rei!
+Oh! Que esperança vibra em nosso ser,
+Pois Aguardamos o Senhor.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>409 - Rosa de Saron</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Rosa de Saron
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1.  Rosa de Sarom, vem ao meu coração; 
+    Dá-lhe da fragrância desse amor sem-par, 
+    Para que eu rescenda em minha vida aqui, 
+    O aroma que só Teu amor pode exalar.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Rosa de Sarom, 
+      Abre em rediante amor 
+      Em nosso coração
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Rosa de Sarom, dom que desceu do Céu, 
+   Faz de minha vida um vaso em Teu louvor, 
+   E que eu viva sempre assim a perfumar 
+   Aqueles que estão em sofrimento e dor.
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Rosa de Sarom, reine pra sempre aqui; 
+   Tua glória impere em terra, céu e mar. 
+   Venham as nações render louvor a Ti; 
+   E o Universo inteiro irá Te adorar.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

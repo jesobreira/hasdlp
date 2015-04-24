@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>424 - Como a Brisa Suave</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Como a Brisa Suave
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Como a brisa suave dos prados em flor,
+   É Tua voz, ó meu Mestre, pra mim, 
+   Quando às vezes, no auge da angústia e dor,
+   Minha mão quase deixa Tua mão.
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Como a brisa suave Tua voz é, Senhor,
+      Como a brisa de um claro arrebol;
+      Dos momentos de sombras liberto já estou,
+      Pois ouvi Tua voz me falar.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Como a brisa suave Tua voz é, Senhor,
+   Quando a noite me encontra tão só;
+   De minha'lma o fardo deixou de existir,
+   Quando as nuvens fizeste fugir.
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

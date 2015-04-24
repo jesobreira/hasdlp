@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>461 - Deus Sempre me Ama</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Deus Sempre me Ama
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		1. Deus sempre me ama,
+   Co'amor me chama,
+   E assim me inflama
+   Do mesmo amor;
+	  ]]></lines>
+    </verse>
+<verse name="v1c">
+      <lines><![CDATA[
+		CORO: Por isso canto 
+      O amor divino;
+      Será meu hino
+      O amor de Deus.
+	  ]]></lines>
+    </verse>
+<verse name="v1d">
+      <lines><![CDATA[
+		2. Cativo estive,
+   Mas graça obtive
+   Do amor que vive
+   E faz viver;
+	  ]]></lines>
+    </verse>
+<verse name="v1e">
+      <lines><![CDATA[
+		3. Enviou Seu filho,
+   Prestou-me auxílio,
+   Mostrou-me o trilho
+   Que ao Céu conduz;
+	  ]]></lines>
+    </verse>
+<verse name="v1f">
+      <lines><![CDATA[
+		4. Jesus buscou-me,
+   Jesus salvou-me,
+   Ele aceitou-me
+   Com terno amor;
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>

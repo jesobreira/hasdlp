@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.0.5" createdBy="Projeto HASDLP - https://github.com/jesobreira/hasdlp" modifiedIn="OpenLP 2.0.5" modifiedDate="2015-04-24T02:42:01">
+  <properties>
+    <titles>
+      <title>146 - Maranata</title>
+    </titles>
+    <authors>
+      <author>HASD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines><![CDATA[
+		Maranata
+	  ]]></lines>
+    </verse>
+<verse name="v1b">
+      <lines><![CDATA[
+		Maranata sempre é do cristão
+A bendita, feliz esperança.
+Maranata, a mensagem a dar
+A um mundo que está em mudança.
+Maranata é a fé
+A inspirar o fiel cristão;
+O regresso de Jesus amar,
+Anunciar, apressar, aguardar.
+Maranata, Maranata, maranata!
+	  ]]></lines>
+    </verse>
+
+  </lyrics>
+</song>
